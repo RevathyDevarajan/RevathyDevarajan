@@ -1,4 +1,4 @@
-## Hi I'm Revathy Karayil Devarajan 👋
+## Hi there ,I'm Revathy Karayil Devarajan 👋
 
 **Data Engineer · SQL Server DBA · Database Engineer · 5+ years with data & databases**
 
