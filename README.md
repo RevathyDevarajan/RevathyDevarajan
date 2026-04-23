@@ -1,8 +1,8 @@
-## Hi there ,I'm Revathy Karayil Devarajan 👋
+## Hi there, I'm Revathy Karayil Devarajan 👋
 
 **Data Engineer · SQL Server DBA · Database Engineer · 5+ years with data & databases**
 
-I enjoy working with data at every layer — from designing and managing databases to building pipelines that move and transform data reliably. I have a strong background in SQL Server and on-prem data warehousing, and I'm currently working with Microsoft Fabric and Azure to build cloud-native data solutions.
+I enjoy working with data at every layer from designing and managing databases to building pipelines that move and transform data reliably. I have a strong background in SQL Server and on-prem data warehousing, and I'm currently working with Microsoft Fabric and Azure to build cloud-native data solutions.
 
 ---
 
@@ -35,17 +35,13 @@ I enjoy working with data at every layer — from designing and managing databas
 
 | Project | Description | Stack |
 |---|---|---|
-| [fabric-lakehouse-pipeline](#) | End-to-end ELT pipeline on Microsoft Fabric using OneLake and Dataflows Gen2 | Fabric · Python · SQL |
-| [sql-server-dba-toolkit](#) | T-SQL scripts for DBA tasks — index maintenance, health checks, backups | T-SQL · SQL Server |
-| [dwh-to-lakehouse](#) | Migrating on-prem DWH patterns to Azure Fabric lakehouse architecture | Azure · Fabric · Medallion |
-| [etl-pipeline-patterns](#) | Reusable ETL/ELT patterns — SSIS on-prem vs cloud-native | ETL · SSIS · Python |
+| [fabric-sftp-medallion-pipeline](https://github.com/RevathyDevarajan/fabric-sftp-medallion-pipeline) | Production-style ELT pipeline ingesting daily sales data from a local SFTP server through Bronze, Silver, and Gold Medallion layers into Delta tables | Fabric · PySpark · Data Factory · OneLake |
+| [LondonBikes-FabricRealTimeIntelligence](https://github.com/RevathyDevarajan/LondonBikes-FabricRealTimeIntelligence) | Real-time pipeline monitoring TfL Santander Cycle stations — live telemetry ingested via EventStream, transformed in an Eventhouse using KQL Medallion Architecture, with automated neighbourhood alerts and a live operational dashboard | Fabric RTI · KQL · EventStream · Activator |
 
 ---
 
 ## 📫 Let's connect
 
-Feel free to reach out for collaborations or conversations around data engineering and databases.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revathy-kd)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:revathykarayildevarajan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/revathy_devaraj_?igsh=MXQ2eDBldmowbWxpZw%3D%3D&utm_source=qr)
