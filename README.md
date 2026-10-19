@@ -14,7 +14,7 @@ I enjoy working with data at every layer from designing and managing databases t
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/SSIS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/WindowsServer-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Cloud & data engineering**
 
